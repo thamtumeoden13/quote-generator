@@ -40,7 +40,7 @@ export default function Home() {
             <FooterLink
               href="https://github.com/thamtumeoden13"
               target="_blank"
-              rel="noopener noreferrer"
+              rel="noopener noreferrer 123"
             >
               @thamtumeoden13
             </FooterLink> 
